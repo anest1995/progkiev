@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>LS2TS2</title>
+    </head>
+    <body>
+      <!--Создаю список с началом нумерации -2 -->
+        <ol start="2">
+            <li>второй</li>
+            <li>третий</li>
+            <li>четвёртый</li>
+        </ol>
+      <!--Маркированый список с типом "круг"-->
+        <ul type="circle">
+            <li>Маркерованый</li>
+          <!--Маркерованый список с типом "квадрат"-->
+                <ul type="square">
+                    <li>html</li>
+                    <li>CSS</li>
+                    <li>JS</li>
+                </ul>
+            <li>Нумерованый</li>
+          <!--Нумерованый список с римской цыфрой-->
+                <ol type="I">
+                    <li>Angular</li>
+                    <li>React</li>
+                    <li>Node</li>
+                </ol>
+            <li>список определений</li>
+          <!--Список опредленний-->
+                <dl>
+                    <dt>Смузи
+                        <dd>Яблоко</dd>
+                        <dd>Арбуз</dd>
+                        <dd>Виноград</dd>
+                    </dt>
+                </dl>
+        </ul>
+    </body>
+</html>
