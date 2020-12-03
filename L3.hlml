@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Psycho</title>
+        <link rel="stylesheet" href="styles.css">
+        <link href="https://fonts.googleapis.com/css2?family=PT+Sans&display=swap" rel="stylesheet">
+    </head>
+    <body>
+        <!--Creat header-->
+        <div class="header">
+                <img src="https://i.postimg.cc/Wdg2SSt0/1-1-X.png" alt="logo" class="header-logo">
+            <div class="header-title">
+            кабинет психолога имени фамилии
+            </div>
+            <div class="header-lines1">
+                <img src="https://i.postimg.cc/ZqTbtk0y/2-1-X.png[" alt="button1">
+            </div>
+            <div class="header-lines2">
+                <img src="https://i.postimg.cc/ZqTbtk0y/2-1-X.png[" alt="button2">
+            </div>
+            <div class="header-lines3">
+                <img src="https://i.postimg.cc/ZqTbtk0y/2-1-X.png[" alt="button3">
+            </div>
+        </div>
+        <!--/Creat header-->
+        <!--Creat promo-->
+        <div class="promo">
+                <div class="promo-picture">
+        
+                </div>
+                <div class="promo-button">
+            <div class="text">записаться на прием </div>
+                </div>
+        </div>
+        <!--/Creat promo-->
+        <!--Creat fio-->
+        <div class="preview">
+                <div class="preview-foto">
+        
+                </div>
+                <div class="preview-fio">
+                    имя фамилия
+                </div>
+                <div class="preview-spec">
+                    психотерапевт такой то специализации
+                </div>
+        </div>
+        <!--/Creat fio-->
+        <!--Creat about-->
+        <div class="about">
+            Тут психолог рассказывает о своей специалзации, 
+            своем опыте, приводит успешные кейсы и рассказывает, 
+            что она лучший специалист в городе
+            Тут психолог рассказывает о своей специалзации, 
+            своем опыте, приводит успешные кейсы и рассказывает, 
+            что она лучший специалист в городе
+        </div>
+        <!--/Creat about-->
+        <!--Creat reasons-->
+        <div class="reasons">
+            <div class="reasons-main">
+                Причины посетить психотерапевта
+            </div>
+                <div class="reasons-list">
+                    <ul>
+                    <li>- причина номер раз</li>
+                    <li>- причина номер два</li>
+                    <li>- причина номер три</li>
+                    <li>- причина номер четыре</li>
+                    <li>- причина номер пять</li>
+                    <li>- причина номер шесть</li>
+                    <li>- причина номер семь</li>
+                    </ul>
+                </div>
+                <div class="reasons-button">
+                    <div class="text1">записаться на прием </div>
+                </div>
+        </div>
+        <!--/Creat reasons-->
+        <!--Creat header-->
+        <div class="footer">
+                    <img src="https://i.postimg.cc/Wdg2SSt0/1-1-X.png" alt="logo" class="footer-logo">
+                <div class="footer-adress">
+                    ул. Кудрявцева 37, каб. 17
+                </div>
+                <div class="footer-phone">
+                    +38 (099) 9519551
+                </div>
+                <div class="footer-mail">
+                    psycho@gmail.com
+                </div>
+        </div>
+        <!--/Creat footer-->
+    </body>
+</html>
